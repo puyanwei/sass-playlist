@@ -22,7 +22,7 @@
     }
 }
 
-@@mixin clearFix {
+@mixin clearFix {
     &:after {
         content: '';
         display: block;
